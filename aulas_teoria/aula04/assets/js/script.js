@@ -22,11 +22,13 @@ let num1,num2 = 0; let res = 0;
 
 num1 = 5;
 num2 = 10;
+// Incremnto e decremento
 // ++ -> adiciona 1 a variável
 // -- -> remove 1 da variável
 num1++;
 
 // Atribuição + operação
+// Atribuição -> receber valor
 num1 += 1; // mesmo que num1 = num1 + 1;
 num1 -= 1;
 num1 *= 1;

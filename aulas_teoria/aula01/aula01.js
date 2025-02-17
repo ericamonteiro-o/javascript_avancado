@@ -1,8 +1,9 @@
 /* 
 Início
 
-JavaScript é uma linguagem de programação interpretada, 
-fracamente tipada (não é compilada, não é gerado um 
+JavaScript é uma linguagem de programação, fracamente 
+tipada (o JS infere o tipo ao valor automaticamente) 
+interpretada (não é compilada, não é gerado um 
 executável, ela é executada em tempo real)
 
 comentário multilinha 

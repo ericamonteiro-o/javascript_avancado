@@ -1,10 +1,9 @@
 /*
 Como declarar variáveis em JS (LET, VAR E CONST)
 
-Variável -> posição reservada dentro da memória RAM, e 
-colocou um valor dentro dessa variável. Uma variável
-pode ser alterada e utilizada a qualquer momento dentro
-do programa.
+Variável -> posição reservada dentro da memória RAM, que 
+armazena um valor. Uma variável pode ser alterada e
+utilizada a qualquer momento dentro do programa.
 
 Embora isso não seja muito relevante nos dias de hoje (a 
 depender do que está sendo feito e a tecnologia utlizada),

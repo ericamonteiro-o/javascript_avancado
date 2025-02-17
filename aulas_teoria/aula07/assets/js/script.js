@@ -1,6 +1,9 @@
 /*
 Operadores Lógicos
 
+Permite testar multiplás expressões comparativas em uma
+estrutura de decisão
+
 AND (&&)
 OR (||)
 NOT (!) -> megação / inversão

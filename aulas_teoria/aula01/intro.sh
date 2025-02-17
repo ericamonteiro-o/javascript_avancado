@@ -13,4 +13,5 @@ $ node nome.js
 
 # Lugares alternativos para executar o código
 # - replit.com
-# - Aba "Console" do browser
+# - Aba "Console" do browser -> 
+#   F12 / Ctrl Shift I

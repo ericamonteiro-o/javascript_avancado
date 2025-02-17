@@ -19,7 +19,7 @@ retornará bit 0
 =======================================================
 
 | (OR)
-Onde eu tiver bit 1 (independente do do outro
+Onde eu tiver bit 1 (independente do outro
 bit ser 0 ou 1), retornará bit 1
 
 1010
@@ -31,7 +31,7 @@ bit ser 0 ou 1), retornará bit 1
 =======================================================
 
 ^ (XOR - OR exclusivo)
-Onde houver quivalência (tanto 1 e 1 e 0 e 0) retorna 0.
+Onde houver equivalência (tanto 1 e 1 e 0 e 0) retorna 0.
 Só retorna 1 onde não houver equivalência
 1010
 1011

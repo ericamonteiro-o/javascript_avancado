@@ -14,6 +14,7 @@ cases não equivalentes sejam executados.
 let capitalCountry = "Brazil";
 
 switch(capitalCountry){
+    case 'BR':
     case 'Brazil' : 
         console.log('Brasília');
     break;
