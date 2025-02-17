@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--
+    defer e async permite usar <script> no <head>
+    (carregamento assíncrono do js)
+
+    defer -> respeita a ordem do código e espera
+    o html carregar completamente
+
+    async -> carrega o js junto com o html e se
+    o js carregar primeiro já era. Não respeita a 
+    ordem do código
+
+    Ainda assim é bom usar o <script> no body,
+    pois pode dar problema com promises / async 
+    await
+
+    <script defer src="assets/js/script.js"></script>
+    -->
+</head>
+<body>
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
